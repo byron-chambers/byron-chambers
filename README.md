@@ -46,8 +46,8 @@ Here are some of my favorite projects (check out the pinned repos below 👇):
 ---
 
 ## 🔍 Let’s Connect!
-- 🌐 [LinkedIn](https://linkedin.com/in/yourprofile)  
-- ✉️ Email me: your.email@example.com  
+- 🌐 www.linkedin.com/in/byron-chambers-1aa915345 
+- ✉️ Email me: byron.chambers@gmail.com  
 - 🛠️ Open to project collaborations, internships, and discussions about computer engineering.
 
 ---
